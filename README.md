@@ -1,4 +1,4 @@
-# NTU Stars Auto Clicker
+# NTU STARS Auto Clicker
 
 Simple Python program to automate clicking during NTU course registration on STARS.
 
